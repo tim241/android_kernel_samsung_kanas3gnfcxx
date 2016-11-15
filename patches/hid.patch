@@ -1178,3 +1178,4 @@ diff -u -r --unidirectional-new-file src-old/drivers/usb/gadget/Makefile src/dri
  g_tcm_usb_gadget-y		:= tcm_usb_gadget.o
  
  obj-$(CONFIG_USB_ZERO)		+= g_zero.o
+
